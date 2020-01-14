@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Alata&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    font-size: 20px;
+    font-family: 'Alata', sans-serif;
+}
+
+h1.quote{
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/bg1.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+
+}
+
+.quote {
+    color: #fff;
+    margin-top: 250px;
+    margin-left: 50px;
+    
+}
