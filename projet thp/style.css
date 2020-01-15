@@ -1,0 +1,44 @@
+header
+{
+	background: black ;
+	height: 100px;
+	margin-bottom: 60px;
+
+}
+body
+{
+	background: brown;
+	font-family: Arial, sans-serif;
+}
+
+#titre_logo
+{
+	color: white;
+	margin-top: 10px;
+	margin-left: 15px;
+	padding-top: 10px;
+	
+}
+#imag
+{
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 5px;
+	padding-top: 10px;
+
+
+}
+#banner_desc
+{
+	position: absolute;
+	top: 200px;
+	border-radius: 0px 0px 5px 5px;
+	width: 1220px;
+	height: 65px;
+	margin-left: 5px;
+	padding-top: 15px;
+	padding-left: 4px;
+	background-color: rgba(24,24,24,0.8);
+	color: yellow;
+	font-size: 0.8em;
+}
